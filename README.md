@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azeezatou, the right web developer your website needs.
+- 👋 Hi, I’m @Azeezatou, the web developer your website needs.
 - 👀 I’m interested in creating user friedly, visually pleasing websites
 - 🌱 I’m currently learning Bootstrap and React JS
 - 💞️ I’m looking to collaborate with several other tech enthusiasts. 
