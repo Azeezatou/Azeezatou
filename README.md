@@ -5,7 +5,7 @@
 - 🌱 My current tech stack is HTML, CSS, Javascript, React, Tailwind, Solidity, Hardhat.
 - 💞️ I also enjoy collaborating with other developers, building cool stuff, and solving problems one line of code at a time.
 -  
-- 📫 You can reach me on twitter @twitter.com/azee_zatou and on linkedin @www.linkedin.com/in/azeezat-abdulqadir
+- 📫 You can reach me on twitter @https://twitter.com/azee_zatou and on linkedin @www.linkedin.com/in/azeezat-abdulqadir
 - 🔥 Fun fact: I read books in my free time with my favorite genres being thrillers and teen romance
 
 <!---
